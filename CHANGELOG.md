@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.15.1](https://github.com/grafana/alloy/compare/v1.15.0...v1.15.1) (2026-03-31)
+
+
+### Bug Fixes 🐛
+
+* **database_observability:** Ensure connection_info_monitor goroutine exits on Stop [backport] ([#5952](https://github.com/grafana/alloy/issues/5952)) ([a9e01e7](https://github.com/grafana/alloy/commit/a9e01e758cad35a63eb9d49d21889ada0e289046))
+* **deps:** Update module github.com/nwaples/rardecode/v2 to v2.2.0 [SECURITY] [backport] ([910a37b](https://github.com/grafana/alloy/commit/910a37bc58499a8379d8da7843b3a3739290a91d))
+
 ## [1.15.0](https://github.com/grafana/alloy/compare/v1.14.0...v1.15.0) (2026-03-26)
 
 
